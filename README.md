@@ -6,47 +6,6 @@ This project is designed as a personal workflow automation tool and portfolio pr
 
 ---
 
-## Recommended GitHub Repository Name
-
-Recommended:
-
-```text
-seek-local-llm-job-matcher
-```
-
-Other good options:
-
-```text
-seek-job-matching-automation
-local-llm-job-search-assistant
-seek-ai-job-screening-pipeline
-job-search-automation-with-ollama
-```
-
-My strongest recommendation is:
-
-```text
-seek-local-llm-job-matcher
-```
-
-This name is clear, professional, and directly describes the purpose of the project without exaggerating what it does.
-
----
-
-## Suggested GitHub Description
-
-```text
-Selenium and Ollama-based job-search assistant for extracting SEEK job ads and screening role suitability with structured local LLM prompts.
-```
-
-A shorter version:
-
-```text
-Local LLM job-matching automation for SEEK Australia and New Zealand.
-```
-
----
-
 ## Project Structure
 
 A clean repository structure can look like this:
